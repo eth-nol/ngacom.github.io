@@ -1,0 +1,8 @@
+name: NgaCom
+description: Service and Networking
+baseurl: ''
+
+url: "http://localhost:4000"
+
+gems: [jekyll-paginate]
+
